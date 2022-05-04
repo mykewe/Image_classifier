@@ -2,3 +2,5 @@
 *.html
 *.ipynb
 *.md
+/_pycache_
+/.git
