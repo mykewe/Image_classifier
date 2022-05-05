@@ -5,7 +5,7 @@ from PIL import Image
 st.title("Flower spicie Classification")
 st.header("Flower spicie Classification")
 st.caption("This image classifier recognizes different species of flowers. It tells you the most likely spicie your flower belongs to and the corresponding probability.")
-st.text("Upload a flower image whose spicie you wish to predict")
+st.text("Upload a flower image whose specie you wish to predict")
 
 
 uploaded_file = st.file_uploader("Choose a flower image ...", type="jpg")
